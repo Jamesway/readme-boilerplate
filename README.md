@@ -18,10 +18,12 @@ Code
 ```
 
 ## Misc
-_bold test for emphasis_
+**bold test for emphasis**
 
 *italicized text for emphasis*
 
 Images
 - make a README dir
 - ```![Alt text](./README/image.png)```
+- https://help.github.com/articles/basic-writing-and-formatting-syntax/
+- https://daringfireball.net/projects/markdown/syntax
