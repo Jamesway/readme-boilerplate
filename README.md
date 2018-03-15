@@ -24,4 +24,4 @@ Code
 
 Images
 - make a README dir
-- \![Alt text](./README/image.png)
+- ```![Alt text](./README/image.png)```
