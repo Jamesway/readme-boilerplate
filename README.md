@@ -14,10 +14,16 @@ sometimes you just gotta make something
 
 ## Usage
 ```
-Code
+# Code goes here
+echo 'hello world';
 ```
 
 ## Misc
+
+resources
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
+https://daringfireball.net/projects/markdown/syntax
+
 **bold test for emphasis**
 
 *italicized text for emphasis*
@@ -25,5 +31,3 @@ Code
 Images
 - make a README dir
 - ```![Alt text](./README/image.png)```
-- https://help.github.com/articles/basic-writing-and-formatting-syntax/
-- https://daringfireball.net/projects/markdown/syntax
