@@ -18,7 +18,7 @@ Code
 ```
 
 ## Misc
-***bold test for emphasis***
+_bold test for emphasis_
 
 *italicized text for emphasis*
 
