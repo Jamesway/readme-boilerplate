@@ -1,4 +1,7 @@
 # README.md boilerplate
+
+https://guides.github.com/features/wikis/
+
 quick summary of the project
 
 ## Why
